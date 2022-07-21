@@ -1,0 +1,89 @@
+{
+  "Header": {
+    "title": "Customize your chocolate giftbox",
+    "paragraph": "YourChocoGift chocolate gift customization company."
+  },
+  "About": {
+    "paragraph": "Imagine that indescribable moment of happiness right after someone opens a gift. Spreading happiness is what we are passionate about. That is why we do everything we can to help you make someone else happy. YourChocoGift was started by Akram and Yann, two childhood friends who wanted to build a company from the group up.From the beginning, they've surrounded their selves with people who constantly challenged each other to do better each day. Always keeping in mind that it all comes down to helping people create meaningful moments. That's what we're good at that's what we love to do.",
+    "Why": [
+      "Do you know the story behind Brand 1 pyramid-shaped structure? It was named after Late Theodor Tobler in Switzerland in the 1900s.",
+      "Brand 2 was originally known as ‘Rowntree’s Chocolate Crisp’ back in the 1900s.",
+      "Brand 3 are meant to be earnt. The company derives its name from a place in Birmingham, England, close to where Cadbury has its factories. "
+      
+    ],
+    "Why2": [
+      "Brand 3 is the creation of the company’s founders, while ‘Rocher’ means ‘rock’ in French.",
+      "Brand 5 is a product of its founder, Franklin Clarence. It was originally known as Brand 7 Inc and established in Minneapolis.",
+      "The invention of Brand 6 is strongly based on milk powder’s existence. It started back in 1901 when the first Brand 6 bar was produced in Germany by Swiss chocolatier Philippe Suchard."
+    ]
+  },
+  
+  
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Everyone, both our colleagues in Europe and America, were very pleased with the quality. The order went well and contact with the B2B department also went smoothly! Thank you!!\"",
+      "name": "Jeri Rowland"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"I was helped very good and the end product turned out very beautiful.\"",
+      "name": "Marion Wolf"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Very easy to find nice presents, a creative way of personalizing, fast delivery and great cooperation with the front office of YourSurprise.\"",
+      "name": "Francis Davenport"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"No complaints - easy to order, quick response and update, quick delivery. Very happy with the product, will definately use again. Thank You!\"",
+      "name": "Gary Martinez"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Great service and a really lovely product. I made a mistake by ordering two and Lynsey sorted out for me. Wonderful service and would definitely recommend to a friend.\"",
+      "name": "Willie Horne"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Very easy to order and personalise the item was very straight forward.\"",
+      "name": "Melody Camacho"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg"
+    }
+  ],
+  "Contact": {
+    "address": "5555 King Edward Ave. Ottawa ON Canada K1N 1N1 ",
+    "phone": "+1(111)111-1111",
+    "email": "YourChocoGift@gmail.ca",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "instagram": "instagram.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-copyright",
+      "title": "Brand 1",
+      "text": "Brand 1 is perhaps one of the most famous and popular chocolate makers in the world with the confectionery produced by the Italian chocolatier B1."
+    },
+    {
+      "icon": "fa fa-birthday-cake",
+      "title": "Brand 2",
+      "text": "Founded by Guy Laurent in 1958, Brand 2 is perhaps the most famous in the world for their production of Chocolate Seashells praline with an assortment of fillings inside."
+    },
+    {
+      "icon": "fa fa-cube",
+      "title": "Brand 3",
+      "text": "Brand 3 is a luxury brand for chocolate and chocolate gifts. It is distinguished with a menu of chocolates with all-natural and premium ingredients."
+    },
+    {
+      "icon": "fa fa-heart",
+      "title": "Brand 4",
+      "text": "Brand 4 is one of the most famous chocolate brands in the world and one of the top Swiss chocolate producing companies in the world."
+    }
+  ]
+}
